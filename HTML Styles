@@ -1,0 +1,13 @@
+<body style="background-color:blue; color: white;">
+
+<h1  style='background-color:white; color: black; font-size: 15px;'>This is a heading</h1>
+<h2  style='background-color:white; color: black;'>This is a heading</h2>
+<h3  style='background-color:white; color: black;'>This is a heading</h3>
+<h4  style='background-color:white; color: black;'>This is a heading</h4>
+<h5  style='background-color:white; color: black;'>This is a heading</h5>
+<h6  style='background-color:white; color: black;'>This is a heading</h6>
+<hr>
+<p style='background-color:black;'>This is a paragraph.</p>
+<p style='background-color:black; text-align:center;'>This is a paragraph 2.</p>
+
+</body>
