@@ -1,0 +1,10 @@
+<b>This text is bold</b>
+<strong>This text is important!</strong>
+
+<i>This text is italic</i>
+<p>This text is <small>some smaller <mark>marked</mark> text</small>
+<sub>subscripted</sub>
+<del>unimportant</del>
+<em><ins>emphasized</ins></em>
+<sup>2</sup>
+</p>
